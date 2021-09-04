@@ -1,0 +1,1 @@
+This is a simple calculator to perform basic operations in Visual Studio code. It was created as a practise exercise

@@ -1,0 +1,10 @@
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\bin\Debug\Simple Calculator.xml
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\obj\Debug\Simple_Calculator.Resources.resources
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\obj\Debug\Simple Calculator.vbproj.GenerateResource.Cache
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\obj\Debug\Simple Calculator.xml
+C:\Users\Jeff Mbai\Desktop\Simple Calculator\obj\Debug\Simple Calculator.pdb
